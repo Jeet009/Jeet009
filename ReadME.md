@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=themukherjee.in&style=for-the-badge&url=https%3A%2F%2Fthemukherjee.in)](https://themukherjee.in/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/JeetMuk93320323?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/JeetMuk93320323)
-[![Youtube](https://img.shields.io/youtube/views/la0qE1LdNfM&logo=youtube&style=for-the-badge)](https://youtube.com/themukherjee)
+[![Youtube](https://img.shields.io/youtube/views/la0qE1LdNfM?style=for-the-badge&logo=youtube)](https://youtube.com/themukherjee)
 
 ## I'm a Computer Programmer!!
 
