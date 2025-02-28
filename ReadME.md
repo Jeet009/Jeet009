@@ -6,11 +6,11 @@
 
 ## I'm a Computer Programmer!!
 
-- 🔭 I'm working as a freelance software developer!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Learning Python & ML
-- ⚡ Fun fact: I love to travel & teach!
+- 🔭 I'm working as a Research Associate at IIIT Delhi
+- 🌱 I’m currently researching on the Deep Learning field
+- 👯 I’ve 5+ years of experience in Software Development field
+- 🥅 2025 Goals: Mastering Deep Learning
+- ⚡ Fun fact: I love to code & teach!
 
 <!-- ### Spotify Playing 🎧
 
