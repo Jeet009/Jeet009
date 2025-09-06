@@ -6,10 +6,10 @@
 
 ## I'm a Computer Programmer!!
 
-- 🔭 I'm working as a Research Associate at IIIT Delhi
-- 🌱 I’m currently researching on the Deep Learning field
-- 👯 I’ve 5+ years of experience in Software Development field
-- 🥅 2025 Goals: Mastering Deep Learning
+- 🔭 I'm pursuing MTech(R) in Data Science
+- 🌱 I’m currently doing research on Deep Learning and EEG Signals.
+- 👯 I’ve 5+ years of experience in the Software Development field and 2+ years in ML/DL
+- 🥅 2025 Goals: Mastering Deep Learning/AI
 - ⚡ Fun fact: I love to code & teach!
 
 <!-- ### Spotify Playing 🎧
