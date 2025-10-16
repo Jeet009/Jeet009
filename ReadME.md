@@ -1,7 +1,6 @@
 ## 🚀 Hi there, I'm Jeet — aka [_themukherjee_](https://medium.com/@themukherjee) 👋  
 
 [![Medium](https://img.shields.io/badge/Medium-@themukherjee-black?style=for-the-badge&logo=medium)](https://medium.com/@themukherjee)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeet%20Mukherjee-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jeet-mukherjee-27869a186/)
 
 ---
 
