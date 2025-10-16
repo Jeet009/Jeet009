@@ -43,10 +43,6 @@ I’m a **Data Science Researcher** and **Full-Stack Developer** passionate abou
 ### ✍️ Featured Articles on Medium
 I write about **Deep Learning**, **Generative AI**, and **ML Research Practices**.
 
-- [How I Built an AI Pipeline for Code Understanding](https://medium.com/@themukherjee)  
-- [Generative AI Beyond Text — The Future of Code](https://medium.com/@themukherjee)  
-- [Demystifying Animal Re-identification using Deep Learning](https://medium.com/@themukherjee)
-
 ➡️ *Explore more on* [medium.com/@themukherjee](https://medium.com/@themukherjee)
 
 ---
