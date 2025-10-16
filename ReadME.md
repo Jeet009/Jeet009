@@ -34,8 +34,8 @@ I’m a **Data Science Researcher** and **Full-Stack Developer** passionate abou
 | Project | Description | Links |
 |----------|--------------|--------|
 | 🦙 **Refute Question Generation (LLMs)** | Pipeline using CodeLlama + Stable-Code to generate and validate AI code outputs. | [Repo](https://github.com/Jeet009/GPT-based-pipeline-to-automatically-generate-good-quality-REFUTE-questions) · [Slides](https://docs.google.com/presentation/d/1R-ztgbQvvhF1EKDBgy7GvotG8xNjLevS9X8XsVNAMAo/edit?usp=sharing) |
-| 🐾 **Animal Re-identification (WACV’24)** | Benchmarking finetuned DL models on wildlife datasets. | [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Cermak_WildlifeDatasets_An_Open-Source_Toolkit_for_Animal_Re-Identification_WACV_2024_paper.pdf) |
-| 🧮 **Institute Disambiguation (NLP + Graph)** | Unsupervised pipeline achieving 99% accuracy in identifying research institutions. | [PostPub](https://postpub.net/) |
+| 🐾 **Animal Re-identification (WACV’24)** | Benchmarking finetuned DL models on wildlife datasets. | [Slide](https://docs.google.com/presentation/d/1G0cEhe24crbx-g22mlwMZcfZ89Ax-HlqqeMlJQUC4MM/edit?usp=sharing) |
+| 🧮 **Institute Disambiguation (NLP + Graph)** | Unsupervised pipeline achieving 99% accuracy in identifying research institutions. | [Website](https://postpub.netlify.app) |
 | ⚙️ **PostPub Data Pipeline** | Automated retraction data processing and email notification system using Python + Node.js. | [Website](https://postpub.net/) |
 
 ---
