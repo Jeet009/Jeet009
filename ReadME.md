@@ -9,9 +9,8 @@
 ### 💡 About Me
 I’m a **Data Science Researcher** and **Full-Stack Developer** passionate about solving real-world problems using AI, Deep Learning, and Generative AI.
 
-- 🎓 **MTech (By Research)** in Data Science @ Delhi Technological University (Minor in AI for Sports)  
+- 🎓 **MTech (By Research)** in Data Science @ Delhi Technological University
 - 🧠 Research interests: **Deep Learning**, **EEG-based AI**, **Generative AI**, **Computer Vision**, and **LLMs**  
-- 🧑‍🏫 **Lecturer (Research Fellow)** @ Sitare University — taught MERN Stack & OS, researched GenAI & LLMs  
 - 🔬 **Research Associate** @ IIIT Delhi — worked on **Animal Re-identification** (WII Project) using CNNs & MegaDescriptor  
 - 📊 **Data Scientist** @ [PostPub](https://postpub.net/) — building NLP-based pipelines for institute disambiguation (99% accuracy!)  
 
@@ -20,8 +19,7 @@ I’m a **Data Science Researcher** and **Full-Stack Developer** passionate abou
 ---
 
 ### 🔭 What I’m Working On
-- 🧬 **Generative AI for Code Understanding** — Developing pipelines for refute question generation using CodeLlama & Stable-Code  
-- 🐆 **Animal Re-Identification** — Fine-tuning CV models for wildlife datasets (ATRW, MIEW)  
+- 🧬 **Generative AI for Code Understanding** — Developing pipelines for refute question generation using CodeLlama & Stable-Code 
 - 🧩 **Institute Disambiguation (Graph + NLP)** — Using co-occurrence matrices for unsupervised name resolution  
 - 🤖 **Automation at Scale** — Designing scalable Python pipelines & email automation for scientific data processing  
 
