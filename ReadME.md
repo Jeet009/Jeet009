@@ -11,8 +11,8 @@ I’m a **Data Science Researcher** and **Full-Stack Developer** passionate abou
 
 - 🎓 **MTech (By Research)** in Data Science @ Delhi Technological University
 - 🧠 Research interests: **Deep Learning**, **EEG-based AI**, **Generative AI**, **Computer Vision**, and **LLMs**  
-- 🔬 **Research Associate** @ IIIT Delhi — worked on **Animal Re-identification** (WII Project) using CNNs & MegaDescriptor  
-- 📊 **Data Scientist** @ [PostPub](https://postpub.net/) — building NLP-based pipelines for institute disambiguation (99% accuracy!)  
+- 📊 **Data Scientist** @ [PostPub](https://postpub.net/) — building NLP-based pipelines for institute disambiguation (99% accuracy!)
+- 🤝 **Active Contributor** @ [Deep-ML]([https://github.com/Deep-ML](https://github.com/Open-Deep-ML/DML-OpenProblem)) — collaborating on open-source AI research and ML infrastructure related problem-solving questions.
 
 > ✨ “I build things that learn — and I teach others how to build them too.”  
 
