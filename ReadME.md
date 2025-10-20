@@ -1,4 +1,4 @@
-## 🚀 Hi there, I'm Jeet — aka [_themukherjee_](https://medium.com/@themukherjee) 👋  
+## 🚀 Hi there, I'm Jeet 👋  
 
 [![Medium](https://img.shields.io/badge/Medium-@themukherjee-black?style=for-the-badge&logo=medium)](https://medium.com/@themukherjee)
 
